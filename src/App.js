@@ -8,10 +8,12 @@ import Navbar from './components/Navbar/Navbar'
 
 // Pages
 import Home from './pages/Home';
-/* import Login from './pages/Login';
+/* 
+import Login from './pages/Login';
 import Register from './pages/Register';
 import Administrador from './pages/Administrador';
-import Hotel from './pages/Hotel'; */
+import Hotel from './pages/Hotel'; 
+*/
 
 function App() {
   return (
